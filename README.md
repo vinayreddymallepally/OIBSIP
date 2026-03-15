@@ -14,3 +14,4 @@ The scan identified the following open ports:
 
 ## Significance
 Identifying open ports is the first step in a security assessment. Open ports like 22 and 80 represent the 'attack surface' of a server and must be monitored for vulnerabilities.
+### [🎥 Click here to watch the Task 1 Demo Video](https://drive.google.com/file/d/15esR9V6g0Ok5vF42mfdDpuCcqjmG9QfJ/view?usp=drive_link)
